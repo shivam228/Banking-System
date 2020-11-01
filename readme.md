@@ -1,4 +1,5 @@
 **************************************************************BANKING SYSTEM***************************************************************
+Banking Management System project simulates banking management allowing functionalities like creating and managing joint and single accounts and admin interface in C programming language.Purpose of this project is learning socket programming,process management,file management,record locking,system calls,shared memory,signals,etc concepts of LINUX or c.
 
 Files In The Project------
 1. add_admin.c - we have to run this file to add a admin user who have admin privileges.
